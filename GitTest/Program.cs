@@ -11,6 +11,7 @@ namespace GitTest
         static void Main(string[] args)
         {
             Console.WriteLine("Первое знакомство GitHub");
+            Console.WriteLine("Первое знаком");
         }
     }
 }
